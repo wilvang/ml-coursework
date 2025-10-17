@@ -1,0 +1,1 @@
+# Assignments for IDATG2208 – Introduction to Machine Learning
